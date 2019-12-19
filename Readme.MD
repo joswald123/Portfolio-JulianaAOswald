@@ -1,4 +1,4 @@
 # Portfolio - Juliana Oswald.
 
-![Home Page Screen](img/about/Home-Screen.PNG)
+![Home Page Screen](about/Home-Screen.PNG)
 
