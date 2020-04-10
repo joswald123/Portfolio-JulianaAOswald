@@ -3213,6 +3213,7 @@ h3 {
   padding-bottom: 75px;
   position: relative;
   margin-top: -295px;
+
 }
 
 /* line 29, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_portfolio.scss */
@@ -3300,6 +3301,14 @@ h3 {
   color: #fff;
   font-size: 24px;
   font-weight: 700;
+}
+.portfolio_image_area .single_Portfolio .portfolio_hover p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: #615cfd;
+  text-align: left;
+  padding: 1rem;
 }
 
 /* line 80, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_portfolio.scss */
